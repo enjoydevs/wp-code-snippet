@@ -1,4 +1,8 @@
-# How to Display the Latest Sticky Posts in WordPress
+<?php
+
+/* 
+ * How to Display the Latest Sticky Posts in WordPress
+*/
 
 function wpb_latest_sticky() { 
 
