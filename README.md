@@ -1,4 +1,3 @@
-# wp-code-snippet
-How to Display the Latest Sticky Posts in WordPress
+# WordPress Codes Snippet
 
-Free
+Biblioteca Free
